@@ -1,27 +1,27 @@
 {
-    "id": "8422BB31",
-    "path": "E:/analytics/projects/piit/r/r8nov25.R",
-    "project_path": "r/r8nov25.R",
+    "id": "584C98B9",
+    "path": "E:/analytics/projects/piit/r/practice11.9.R",
+    "project_path": "r/practice11.9.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "290797437",
     "contents": "",
     "dirty": false,
-    "created": 1762613770512.0,
+    "created": 1762701632167.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 2,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,0",
-        "scrollLine": "0"
+        "cursorPosition": "34,3",
+        "scrollLine": "17"
     },
     "folds": "",
-    "lastKnownWriteTime": 1762622709,
+    "lastKnownWriteTime": 1762705159,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1762622709147,
+    "last_content_update": 1762705159343,
     "read_only": false,
     "read_only_alternatives": []
 }
